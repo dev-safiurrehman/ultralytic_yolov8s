@@ -1,0 +1,14 @@
+description: Ultralytics last model trained on /kaggle/input/dog-nose-detection-for-yolov8/data.yaml
+author: Ultralytics
+date: '2024-04-28T00:39:34.769399'
+version: 8.2.4
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+  - 320
+  - 320
+names:
+  0: dog_nose
